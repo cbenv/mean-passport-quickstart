@@ -1,0 +1,10 @@
+/.idea
+/**/.DS_Store
+
+/node_modules
+/server/node_modules
+/client/node_modules
+/server/dist
+/client/dist
+/server/npm-debug.log
+/client/npm-debug.log

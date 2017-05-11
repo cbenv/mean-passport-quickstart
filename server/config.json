@@ -1,0 +1,15 @@
+{
+  "node": {
+    "host": "localhost",
+    "port": 8080,
+    "env": "development",
+    "database": "mongodb://localhost:27017/app"
+  },
+  "passport": {
+    "secret": "secret",
+    "algorithm": "HS512",
+    "expiresIn": 2592000,
+    "issuer": "oauth.app.com",
+    "audience": "app.com"
+  }
+}
